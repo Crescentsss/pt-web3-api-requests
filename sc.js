@@ -51,7 +51,7 @@ function getHeaders() {
     "Pt-Session-Token": sessionToken,
     "Pt-Signature": bearer,
     "Pt-Userid": playerId,
-    "Pt-Version": "1.0.12",
+    "Pt-Version": "1.2.0",
     "Sec-Ch-Ua": "\"Google Chrome\";v=\"141\", \"Not;A Brand\";v=\"8\", \"Chromium\";v=\"141\"",
     "Sec-Ch-Ua-Mobile": "?0",
     "Sec-Ch-Ua-Platform": "\"Windows\"",
